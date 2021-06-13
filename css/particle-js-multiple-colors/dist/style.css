@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  background-image: linear-gradient(to right top, #780a49, #903257, #a75066, #bc6f79, #d08d8e, #db918e, #e6958d, #f1998c, #f38271, #f36b55, #f05138, #eb3118);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
